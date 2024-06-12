@@ -14,7 +14,7 @@ def draw():
 
 
     texto_creditos = "Creditos"
-    texto_equipe = "2M2 Larissa, Gustavo, Juan, Victor"
+    texto_equipe = "Vingamores 2M2 Larissa, Gustavo, Juan, Victor"
     cor_texto = "white"
     tamanho_texto = 20
 
